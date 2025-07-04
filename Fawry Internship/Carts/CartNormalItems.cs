@@ -15,10 +15,10 @@ namespace Fawry_Internship.Carts
         #endregion
 
         #region Constructor
-        public CartNormalItems(Product product, int Quantity)
+        public CartNormalItems(Product product, int Quantityy)
         {
             this.Product = product;
-            this.Quantity = Quantity;
+            this.Quantity = Quantityy;
         }
         #endregion
     }
